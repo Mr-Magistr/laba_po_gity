@@ -1,2 +1,2 @@
-sosat
+sosat + lezhat
 prikol
