@@ -258,6 +258,8 @@ b=start()
 b.pynkt1()
 
 
+
+
 #print(len(prikol))
 #print(len(znach_dver))
 #print(prikol[0].__dict__,f'{masssiv[0]} {prikol[0].model} {masssiv[1]} {prikol[0].color} {masssiv[2]} {prikol[0].obem_dvig} {masssiv[3]} {prikol[0].fary} {znach_dver[0]} {prikol[0].dveri}')
